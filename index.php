@@ -270,8 +270,25 @@
         <div class="row">
           <div class="col-md-3">
             <h1 class="title">InfaCoin</h1>
+            <div class="btn-wrapper profile">
+              <a target="_blank" href="https://twitter.com/halo_infranesia" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a target="_blank" href="https://www.facebook.com/infranesia_official" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Like us">
+                <i class="fab fa-facebook-square"></i>
+              </a>
+              <a target="_blank" href="https://infranesia.com" class="btn btn-icon btn-neutral  btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
+                <i class="fab fa-chrome"></i>
+              </a>
+            </div>
           </div>
           <div class="col-md-3">
+            <h3 class="title">VISITOR:</h3>
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+            <div class="elfsight-app-a6d86b3e-b8bf-4094-98fb-37f8a0df3150"></div>
+          </div>
+          <div class="col-md-3">
+            <h3 class="title">USEFUL LINKS:</h3>
             <ul class="nav">
               <li class="nav-item">
                 <a href="#" class="nav-link">
@@ -291,22 +308,16 @@
             </ul>
           </div>
           <div class="col-md-3">
-            
+            <h3 class="title">GET IN TOUCH</h3>
+            <p>
+              halo.infranesia@example.com<br>
+            </p>
           </div>
-          <div class="col-md-3">
-            <h3 class="title">Follow us:</h3>
-            <div class="btn-wrapper profile">
-              <a target="_blank" href="https://twitter.com/halo_infranesia" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
-                <i class="fab fa-twitter"></i>
-              </a>
-              <a target="_blank" href="https://www.facebook.com/infranesia_official" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Like us">
-                <i class="fab fa-facebook-square"></i>
-              </a>
-              <a target="_blank" href="https://infranesia.com" class="btn btn-icon btn-neutral  btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
-                <i class="fab fa-chrome"></i>
-              </a>
-            </div>
-          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="copyright">
+          &copy; Copyright <strong><span>InfraCoin <?= date('Y') ?></span></strong>. All Rights Reserved
         </div>
       </div>
     </footer>
