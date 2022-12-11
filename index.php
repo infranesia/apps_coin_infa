@@ -283,12 +283,12 @@
             </div>
           </div>
           <div class="col-md-3">
-            <h3 class="title">VISITOR:</h3>
+            <h3 class="title">VISITOR</h3>
             <script src="https://apps.elfsight.com/p/platform.js" defer></script>
             <div class="elfsight-app-a6d86b3e-b8bf-4094-98fb-37f8a0df3150"></div>
           </div>
           <div class="col-md-3">
-            <h3 class="title">USEFUL LINKS:</h3>
+            <h3 class="title">USEFUL LINKS</h3>
             <ul class="nav">
               <li class="nav-item">
                 <a href="#" class="nav-link">
