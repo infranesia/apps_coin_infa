@@ -1,2 +1,2 @@
-# apps_coin_infa
+# Application Infa Coin
 Infa Coin
