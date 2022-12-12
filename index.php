@@ -151,12 +151,12 @@
                   InfaCoin is available on Solscan and Raydium.
                 </h4>
                 <div class="btn-wrapper">
-                  <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj#holders" class="btn btn-primary btn-simple btn-round btn-lg" target="_blank"><i class="fa-solid fa-eye"></i> View</a>
+                  <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj" class="btn btn-primary btn-simple btn-round btn-lg" target="_blank"><i class="fa-solid fa-eye"></i> View</a>
                 </div>
               </div>
             </div>
             <div class="blur-hover">
-              <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj#holders">
+              <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj">
                 <div class="icons-container blur-item on-screen mt-5">
                   <!-- Center -->
                   <i class="icon tim-icons icon-coins"></i>
