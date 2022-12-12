@@ -19,7 +19,8 @@
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="./assets/infa/infa.css" rel="stylesheet" />
   <!-- FontAwesome -->
-  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+  <link href="./assets/fontawesome/css/all.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body class="index-page">
@@ -85,7 +86,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link btn btn-default d-none d-lg-block" href="https://raydium.io/swap?inputCurrency=sol&outputCurrency=EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj&fixed=in" target="_blank" onclick="scrollToDownload()">
-              <i class="fas fa-coins"></i> Buy Coin INFA
+              <i class="fa-solid fa-coins"></i> Buy Coin INFA
             </a>
           </li>
         </ul>
@@ -107,7 +108,7 @@
           <h1 class="h1-seo">The Infa Token</h1>
           <h3>Explore the utility that serves the InfaCoin ecosystem.</h3>
           <a href="https://raydium.io/swap?inputCurrency=sol&outputCurrency=EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj&fixed=in" class="btn btn-success" target="_blank">Raydium</a>
-          <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj#holders" class="btn btn-info" target="_blank">Solscan</a>
+          <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj" class="btn btn-info" target="_blank">Solscan</a>
         </div>
       </div>
     </div>
@@ -126,7 +127,7 @@
                 <br />
                 <p>Tujuan dari InfaCoin pengguna dapat membeli server dan membayar jasa pembuatan aplikasi. Dengan menggunakan coin pengguna juga dapat menghemat biaya transaksi dan meningkatkan keamanan pembayaran, karena transaksi dengan coin dilakukan secara langsung antara pengguna dan merchant tanpa perlu melibatkan pihak ketiga seperti bank.</p>
                 <br />
-                <a href="https://infranesia.com" class="btn btn-success" style="color: black;" target="_blank">Get Started</a>
+                <a href="https://infranesia.com" class="btn btn-success" style="color: black;" target="_blank"><i class="fa-solid fa-play"></i> Get Started</a>
               </div>
             </div>
             <div class="col-md-5 mt-lg-5">
