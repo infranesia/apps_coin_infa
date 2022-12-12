@@ -107,8 +107,9 @@
         <div class="content-center brand">
           <h1 class="h1-seo">The Infa Token</h1>
           <h3>Explore the utility that serves the InfaCoin ecosystem.</h3>
-          <a href="https://raydium.io/swap?inputCurrency=sol&outputCurrency=EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj&fixed=in" class="btn btn-success" target="_blank">Raydium</a>
-          <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj" class="btn btn-info" target="_blank">Solscan</a>
+          <a href="https://raydium.io/swap?inputCurrency=sol&outputCurrency=EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj&fixed=in" class="btn btn-success" target="_blank"><i class="fa-solid fa-shop"></i> Raydium</a>
+          <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj" class="btn btn-info" target="_blank"><i class="fa-solid fa-shop"></i> Solscan</a>
+          </br><a href="https://infranesia.com" class="btn btn-black" target="_blank"><i class="fa-solid fa-globe"></i> Infranesia</a>
         </div>
       </div>
     </div>
@@ -150,7 +151,7 @@
                   InfaCoin is available on Solscan and Raydium.
                 </h4>
                 <div class="btn-wrapper">
-                  <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj#holders" class="btn btn-primary btn-simple btn-round btn-lg" target="_blank">View</a>
+                  <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj#holders" class="btn btn-primary btn-simple btn-round btn-lg" target="_blank"><i class="fa-solid fa-eye"></i> View</a>
                 </div>
               </div>
             </div>
