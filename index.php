@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/infa/logo-medium.png">
   <link rel="icon" type="image/png" href="./assets/img/infa/logo-medium.png">
+  <link rel="shortcut icon" href="./assets/img/infa/logo-medium.png">
+  <link rel="apple-touch-icon" href="./assets/img/infa/logo-medium.png" >
   <title>
     InfaCoin | Token
   </title>
