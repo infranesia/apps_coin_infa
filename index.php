@@ -86,7 +86,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link btn btn-default d-none d-lg-block" href="https://raydium.io/swap?inputCurrency=sol&outputCurrency=EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj&fixed=in" target="_blank" onclick="scrollToDownload()">
-              <i class="fa-solid fa-coins"></i> Buy Coin INFA
+              <i class="fa-solid fa-coins"></i> Beli Coin INFA
             </a>
           </li>
         </ul>
@@ -95,7 +95,7 @@
   </nav>
   <!-- End Navbar -->
   <div class="wrapper">
-    <div class="page-header header-filter">
+    <div class="page-header header-filter" id="home">
       <div class="squares square1"></div>
       <div class="squares square2"></div>
       <div class="squares square3"></div>
@@ -106,7 +106,7 @@
       <div class="container">
         <div class="content-center brand">
           <h1 class="h1-seo">The Infa Token</h1>
-          <h3>Explore the utility that serves the InfaCoin ecosystem.</h3>
+          <h3>Jelajahi Utilitas yang Melayani Ekosistem InfaCoin.</h3>
           <a href="https://raydium.io/swap?inputCurrency=sol&outputCurrency=EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj&fixed=in" class="btn btn-success" target="_blank"><i class="fa-solid fa-shop"></i> Raydium</a>
           <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj" class="btn btn-info" target="_blank"><i class="fa-solid fa-shop"></i> Solscan</a>
           </br><a href="https://infranesia.com" class="btn btn-black" target="_blank"><i class="fa-solid fa-globe"></i> Infranesia</a>
@@ -121,14 +121,14 @@
           <div class="row row-grid justify-content-between">
             <div class="col-md-6">
               <div class="pl-md-5">
-                <h1>Purpose
+                <h1>Tujuan
                   <br />
                 </h1>
                 <p>Coin adalah unit mata uang digital yang dapat digunakan sebagai alat tukar di dunia maya. Coin dapat dibeli dan dijual seperti mata uang fiat, tetapi memiliki beberapa fitur dan kelebihan yang membedakannya. Coin dapat dibuat dan dikelola secara terdesentralisasi menggunakan teknologi blockchain, sehingga tidak tergantung pada pihak ketiga atau otoritas pusat seperti bank.</p>
                 <br />
                 <p>Tujuan dari InfaCoin pengguna dapat membeli server dan membayar jasa pembuatan aplikasi. Dengan menggunakan coin pengguna juga dapat menghemat biaya transaksi dan meningkatkan keamanan pembayaran, karena transaksi dengan coin dilakukan secara langsung antara pengguna dan merchant tanpa perlu melibatkan pihak ketiga seperti bank.</p>
                 <br />
-                <a href="https://infranesia.com" class="btn btn-success" style="color: black;" target="_blank"><i class="fa-solid fa-play"></i> Get Started</a>
+                <a href="https://infranesia.com" class="btn btn-success text-center" style="color: black;" target="_blank"><i class="fa-solid fa-play"></i> Get Started</a>
               </div>
             </div>
             <div class="col-md-5 mt-lg-5">
@@ -137,6 +137,100 @@
           </div>
         </div>
       </section>
+    </section>
+
+    <section class="section section-lg section-coins" id="benefits">
+      <img src="./assets/img/path3.png" class="path">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <hr class="line-info">
+            <h1>Pilih <b>Benefit</b>
+              <span class="text-info">sesuai kebutuhan Anda</span>
+            </h1>
+          </div>
+        </div>
+        <div class="row row-grid justify-content-between">
+          <div class="col-md-2">
+          </div>
+          <div class="col-md-4">
+            <div class="card card-coin card-plain">
+              <div class="card-header">
+                <img src="./assets/img/infa/logo.png" class="img-center img-fluid">
+              </div>
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-md-12 text-center">
+                    <h4 class="text-uppercase">Holder Tier 1</h4>
+                    <span>Min 5.700 INFA coin</span>
+                    <hr class="line-primary">
+                  </div>
+                </div>
+                <div class="row">
+                  <ul class="list-group">
+                    <li class="list-group-item">Gratis pembuatan 1 Website </br> (maks. 5 page)</li>
+                    <li class="list-group-item">Gratis Domain 1 Tahun</li>
+                    <li class="list-group-item">Gratis Hosting 1 Tahun</li>
+                  </ul>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 text-center">
+                    </br>
+                    <p>Syarat dan ketentuan</p>
+                    <ul class="list-group">
+                      <li class="list-group-item">Website aktif selama coin masih di hold oleh account yang sama </br>( maks. 1 tahun )</li>
+                      <li class="list-group-item">Maintenance aktif selama coin masih </br>di hold oleh account yang sama.</li>
+                    </ul>
+                    <p>*selama persedian masih ada</p>
+                  </div>
+                </div>
+              </div>
+              <div class="card-footer text-center">
+                <a href="#home" class="btn btn-primary btn-simple">Beli</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card card-coin card-plain">
+              <div class="card-header">
+                <img src="./assets/img/infa/logo.png" class="img-center img-fluid">
+              </div>
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-md-12 text-center">
+                    <h4 class="text-uppercase">Holder Tier 2</h4>
+                    <span>Min 6.700 INFA coin</span>
+                    <hr class="line-success">
+                  </div>
+                </div>
+                <div class="row">
+                  <ul class="list-group">
+                    <li class="list-group-item">Gratis pembuatan 1 WebApps </br>(POS, CMS, Commerce, etc)</li>
+                    <li class="list-group-item">Gratis Domain 1 Tahun</li>
+                    <li class="list-group-item">Gratis VPS 1 Tahun</li>
+                  </ul>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 text-center">
+                    </br>
+                    <p>Syarat dan ketentuan</p>
+                    <ul class="list-group">
+                      <li class="list-group-item">Website aktif selama coin masih di hold oleh account yang sama </br>( maks. 1 tahun )</li>
+                      <li class="list-group-item">Maintenance aktif selama coin masih </br>di hold oleh account yang sama.</li>
+                    </ul>
+                    <p>*selama persedian masih ada</p>
+                  </div>
+                </div>
+              </div>
+              <div class="card-footer text-center">
+                <a href="#home" class="btn btn-success btn-simple">Beli</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+          </div>
+        </div>
+      </div>
     </section>
 
     <section class="section section-lg" id="explore">
@@ -148,7 +242,7 @@
               <div class="col-lg-8 col-md-12">
                 <h2 class="title">Explore InfaCoin</h2>
                 <h4 class="description">
-                  InfaCoin is available on Solscan and Raydium.
+                  InfaCoin tersedia di Solscan dan Raydium.
                 </h4>
                 <div class="btn-wrapper">
                   <a href="https://solscan.io/token/EpKFYk3mCtoWT11itNswZgdGy7SQyvRhRJKpkFetxixj" class="btn btn-primary btn-simple btn-round btn-lg" target="_blank"><i class="fa-solid fa-eye"></i> View</a>
@@ -217,7 +311,12 @@
               </li>
               <li class="nav-item">
                 <a href="#purpose" class="nav-link">
-                  Purpose
+                  Tujuan
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#benefits" class="nav-link">
+                  Benefits
                 </a>
               </li>
               <li class="nav-item">
