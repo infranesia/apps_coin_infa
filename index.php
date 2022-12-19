@@ -130,7 +130,6 @@
                 <br />
                 <p>Tujuan dari InfaCoin pengguna dapat membeli server dan membayar jasa pembuatan aplikasi. Dengan menggunakan coin pengguna juga dapat menghemat biaya transaksi dan meningkatkan keamanan pembayaran, karena transaksi dengan coin dilakukan secara langsung antara pengguna dan merchant tanpa perlu melibatkan pihak ketiga seperti bank.</p>
                 <br />
-                <a href="https://infranesia.com" class="btn btn-success text-center" style="color: black;" target="_blank"><i class="fa-solid fa-play"></i> Get Started</a>
               </div>
             </div>
             <div class="col-md-5 mt-lg-5">
