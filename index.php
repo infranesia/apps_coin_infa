@@ -7,7 +7,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/infa/logo-medium.png">
   <link rel="icon" type="image/png" href="./assets/img/infa/logo-medium.png">
   <link rel="shortcut icon" href="./assets/img/infa/logo-medium.png">
-  <link rel="apple-touch-icon" href="./assets/img/infa/logo-medium.png" >
+  <link rel="apple-touch-icon" href="./assets/img/infa/logo-medium.png">
   <title>
     InfaCoin | Token
   </title>
@@ -18,6 +18,7 @@
   <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link href="./assets/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
+  <link href="./assets/css/animate.css" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="./assets/infa/infa.css" rel="stylesheet" />
   <!-- FontAwesome -->
@@ -157,7 +158,15 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="./assets/img/infa/logo.png" class="img-center img-fluid">
+                <div class="benefit-animate">
+                  <div class="benefit-face">
+                    <div class="benefit-circle"></div>
+                  </div>
+                  <div class="benefit-face">
+                    <div class="benefit-circle"></div>
+                  </div>
+                  <img src="./assets/img/infa/logo.png" class="img-center img-fluid">
+                </div>
               </div>
               <div class="card-body">
                 <div class="row">
@@ -194,7 +203,15 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="./assets/img/infa/logo.png" class="img-center img-fluid">
+                <div class="benefit-animate">
+                  <div class="benefit-face">
+                    <div class="benefit-circle"></div>
+                  </div>
+                  <div class="benefit-face">
+                    <div class="benefit-circle"></div>
+                  </div>
+                  <img src="./assets/img/infa/logo.png" class="img-center img-fluid">
+                </div>
               </div>
               <div class="card-body">
                 <div class="row">
